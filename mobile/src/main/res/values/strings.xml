@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DiceCalculator</string>
+    <string name="welcome">Hello! Welcome to my first attempt at an Android app on my own accord. This is a dice calculator app.
+        Press the button below to go to the main page and begin calculating dice outcomes!</string>
+    <string name="calculator_button_label">Calculator</string>
+    <string name="history_button_label">History</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="dice_symbol">d</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+    <string name="result_label">Result: 0</string>
+    <string name="go_label">GO!</string>
+
+
+</resources>
