@@ -232,7 +232,6 @@ public class DiceCalculator extends AppCompatActivity
         System.out.println(result);
         System.out.println(resultString);
         resultView.setText(resultString);
-        resultString.
         calculationView.setText(resultString);
         //calculationString = calculationView.getText().toString();
     }
